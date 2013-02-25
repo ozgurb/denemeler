@@ -1,0 +1,4 @@
+denemeler
+=========
+
+scala dair denemeler
